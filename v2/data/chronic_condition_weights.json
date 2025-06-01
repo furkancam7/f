@@ -1,0 +1,12 @@
+{
+    "diabetes": 0.96,
+    "hypertension": 0.72,
+    "heart_disease": 1.2,
+    "asthma": 0.33,
+    "cancer": 1.44,
+    "copd": 0.96,
+    "depression": 0.48,
+    "obesity": 0.72,
+    "alzheimer": 1.2,
+    "bone_cancer": 1.44
+}

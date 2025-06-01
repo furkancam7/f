@@ -1,0 +1,17 @@
+region,age_group,base_cost
+USA,30-39,2000
+USA,40-49,3000
+USA,50-59,4000
+USA,60+,6000
+Europe,30-39,1500
+Europe,40-49,2250
+Europe,50-59,3000
+Europe,60+,4500
+Asia,30-39,1000
+Asia,40-49,1500
+Asia,50-59,2000
+Asia,60+,3000
+Turkey,30-39,800
+Turkey,40-49,1200
+Turkey,50-59,1600
+Turkey,60+,2400

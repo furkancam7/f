@@ -1,0 +1,21 @@
+{
+  "name_surname": "emre demir",
+  "age": 23,
+  "email": "emre@example.com",
+  "gender": "Male",
+  "martial_status": null,
+  "number_of_children": null,
+  "education_level": "Bachelor's Degree",
+  "occupation": "uber driver",
+  "anual_working_hours": 1040,
+  "monthly_income": 2000,
+  "monthly_expenses": 1500,
+  "debt": 0,
+  "assets": "car worth $2000",
+  "location": "ankara turkey",
+  "chronic_diseases": "none",
+  "lifestyle_habits": "i dont smoke i dont drink and lift weights 3 times per week",
+  "family_health_history": "not that i know of",
+  "target_retirement_age": 65,
+  "target_retirement_income": 3000
+}
